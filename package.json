@@ -1,0 +1,22 @@
+{
+  "name": "black-solarized",
+  "displayName": "Black SOlarized",
+  "description": "null",
+  "version": "0.0.1",
+  "publisher": "sharojadhikari",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Solarized-color-theme.json"
+      }
+    ]
+  }
+}
