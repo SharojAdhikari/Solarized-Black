@@ -10,8 +10,6 @@ A dark, solarized-inspired theme for Visual Studio Code, offering a comfortable 
 ## Screenshots
 
 ![Black Solarized Theme Screenshot](images/theme-screenshot.png)
-*(Please replace `images/theme-screenshot.png` with an actual screenshot of your theme in action. Make sure the image is in the `images` directory.)*
-
 ## Installation
 
 1.  **Download the VSIX file:**
